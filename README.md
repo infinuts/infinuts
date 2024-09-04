@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack dev, mainly making websites or .net apps or ui designing<br><br>At Dylexcel Softs | Website Maker, Developer<br>At Nexam Hub | Contributor, Trial Moderator<br>At Ventura | Owner, Main developer<br>At Appleware | Contributor
+Fullstack dev, mainly making websites or .net apps or ui designing<br><br>At Dylexcel Softs | Website Maker, Developer https://zomex.com <br>At Nexam Hub | Contributor, Trial Moderator<br>At Ventura | Owner, Main developer<br>At Appleware | Contributor
 
 
 # 💻 Tech Stack:
