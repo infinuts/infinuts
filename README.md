@@ -1,5 +1,9 @@
+# Note:
+there is no point of looking at the repos, most of them are private because they contain real names, addresses of companies, and god forbid a man having privacy.
+
+
 # 💫 About Me:
-Fullstack dev, mainly making websites or Roblox Exploits.<br><br>At Dylexcel Softs | Website Maker, Developer https://zomex.lol <br>At Nexam Hub | Ex-Dev, Frontend developer <br>At Ventura | Owner, Main developer<br>
+Fullstack dev, mainly making websites or Roblox Exploits.<br><br>At Dylexcel Softs | Website Maker, Developer <br>At Nexam Hub | Ex-Dev, Backend developer <br>At Ventura | Owner, Main developer<br>
 
 
 # 💻 Tech Stack:
@@ -10,4 +14,4 @@ Fullstack dev, mainly making websites or Roblox Exploits.<br><br>At Dylexcel Sof
 ---
 [![](https://visitcount.itsvg.in/api?id=Infinuts&icon=1&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- not Proudly created with GPRM ( https://gprm.itsvg.in ) -->
