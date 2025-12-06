@@ -3,7 +3,7 @@ there is no point of looking at the repos, most of them are private because they
 
 
 # 💫 About Me:
-Fullstack dev, mainly making websites or Roblox Exploits.<br><br>At Dylexcel Softs | Website Maker, Developer <br>At Nexam Hub | Ex-Dev, Backend developer <br>At Ventura | Owner, Main developer<br>
+Fullstack dev, mainly making websites or Roblox Exploits.
 
 
 # 💻 Tech Stack:
