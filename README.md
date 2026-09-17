@@ -1,4 +1,12 @@
-<img src="https://media1.tenor.com/m/cRkEcNZvVEMAAAAd/tole-tole-mei-mei.gif" >
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Are+we+living%2C+or+just+passing+time%3F;What+makes+a+life+worth+remembering%3F;If+nothing+lasts+forever%2C+what+makes+anything+matter%3F;How+much+of+who+we+are+did+we+actually+choose%3F;Would+you+live+differently+if+nobody+remembered+you%3F;Is+the+purpose+of+life+something+we+find%2C+or+create%3F;When+does+existing+become+living%3F;Are+you+becoming+who+you+wanted+to+be%3F)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://media1.tenor.com/m/cRkEcNZvVEMAAAAd/tole-tole-mei-mei.gif">
+
+</div>
  
  # Hi there! 
  
