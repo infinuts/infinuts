@@ -1,6 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Are+we+living%2C+or+just+passing+time%3F;What+makes+a+life+worth+remembering%3F;If+nothing+lasts+forever%2C+what+makes+anything+matter%3F;How+much+of+who+we+are+did+we+actually+choose%3F;Would+you+live+differently+if+nobody+remembered+you%3F;Is+the+purpose+of+life+something+we+find%2C+or+create%3F;When+does+existing+become+living%3F;Are+you+becoming+who+you+wanted+to+be%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Am+I+living+life+or+just+waiting+for+my+code+to+compile%3F;If+coffee+is+a+solution%2C+what+was+the+problem%3F;Why+do+we+set+alarms+to+wake+up+from+dreams%3F;Is+procrastination+just+time+travel+to+tomorrow%3F;If+we+are+made+of+stardust%2C+why+do+I+still+forget+my+password%3F;Do+cats+know+they+own+us%2C+or+do+we+just+think+we+own+them%3F;If+life+is+a+journey%2C+who+forgot+to+give+us+the+map%3F;Am+I+the+main+character+or+just+an+NPC+with+WiFi%3F;Maybe+the+real+treasure+was+the+snacks+we+ate+along+the+way%3F;If+nobody+sees+your+achievements%2C+did+you+still+level+up%3F)](https://git.io/typing-svg)
+
 
 <br>
 
