@@ -52,3 +52,4 @@
 [![](https://visitcount.itsvg.in/api?id=Infinuts&icon=1&color=2)](https://visitcount.itsvg.in)
 
 <!-- not Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- This bird, expert in the absurd, Number one in life that has been deferred, it hurts this relentless introvert, but inversion only serves to put deserving on the mind, so I keep my time, so far out of line, and when the day turns night, I can't help but cry so loudly, I slant devoutly tell me what about me is built so wrong? there's so much passion but more I'm lacking -->
